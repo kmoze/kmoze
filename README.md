@@ -39,6 +39,12 @@ MigrainePal is a tracking tool that enables users to log their migraine attacks,
 
 Here's a demo of MigrainePal: [YouTube link](https://youtu.be/kwPL03Xq2R0)
 
+## Past projects
+
+### [Atomize Pro](https://github.com/kmoze/refactored-atomize)
+
+A fork of Atomize, a todo app built in React. Converted the codebase to TypeScript, and refactored the entire state management approach, implementing global context and useReducer, removing 13 useEffects, 21 state variables, and fixing a number of significant bugs that were causing unintended behaviour, particularly with asynchronous state. Applied Vitest test suite to the project codebase.
+
 <!--
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning ...

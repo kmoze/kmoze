@@ -33,6 +33,12 @@ I love experimenting with new technologies and working on impactful projects.
 A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app:
 [YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
+### [MigrainePal](https://github.com/kmoze/migraine_pal)
+
+MigrainePal is a tracking tool that enables users to log their migraine attacks, receive detailed analytics and insights about them all with the goal of providing the end user with a deeper understanding of their migraine condition.
+
+Here's a demo of MigrainePal: [YouTube link](https://youtu.be/kwPL03Xq2R0)
+
 <!--
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning ...

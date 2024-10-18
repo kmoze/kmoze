@@ -20,6 +20,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=50 height=50 />
 </div>
 
+## Projects I'm Currently Working On:
+
+### Goss
+
+![Goss UI Gif](./animations/gossgif1mb.gif)
+
+A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
+
 <!--
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning ...

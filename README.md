@@ -32,7 +32,7 @@ I love experimenting with new technologies and working on impactful projects.
 
 ![Goss UI Gif](./animations/gossgif1mb.gif)
 
-A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app:
+A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Here's a demo video:
 [YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
 ### [MigrainePal](https://github.com/kmoze/migraine_pal)

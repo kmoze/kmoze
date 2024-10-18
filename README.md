@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer with a diverse technical skill set.
 
 I love experimenting with new technologies and working on impactful projects.
 
-### Tools I use:
+## Tools I use:
 
 <div style="display: flex; gap: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50 height=50 />
@@ -26,11 +26,12 @@ I love experimenting with new technologies and working on impactful projects.
 
 ## Projects I'm Currently Working On:
 
-### Goss
+### [Goss](https://github.com/kmoze/goss)
 
 ![Goss UI Gif](./animations/gossgif1mb.gif)
 
-A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
+A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app:
+[YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
 <!--
 - 🔭 I’m currently working on...

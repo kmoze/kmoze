@@ -1,5 +1,9 @@
 ## Hi, I'm Kier 👋🏻
 
+I'm a passionate Full Stack Developer with a diverse technical skill set.
+
+I love experimenting with new technologies and working on impactful projects.
+
 ### Tools I use:
 
 <div style="display: flex; gap: 15px;">

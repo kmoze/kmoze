@@ -18,6 +18,7 @@ I love experimenting with new technologies and working on impactful projects.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40 height=40 title='MongoDB' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width=40 height=40 title='Supabase' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 height=40 title='Python' />
+<img src="./images/koaLogo.png" width=40 height=40 title='Koa' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width=40 height=40 title='Vitest'  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40 height=40 title='Git' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40 height=40 title='PostgreSQL' />

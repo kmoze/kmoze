@@ -32,6 +32,8 @@ I love experimenting with new technologies and working on impactful projects.
 
 ![Goss UI Gif](./animations/gossgif1mb.gif)
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Here's a demo video:
 [YouTube link](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 

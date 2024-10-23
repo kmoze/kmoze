@@ -1,12 +1,10 @@
 # Hi, I'm Kier 👋🏻
 
-I'm a passionate Full Stack Developer with a diverse technical skill set.
+I'm a Full-Stack Software Developer with a focus on JavaScript particularly in React, Next.js, TypeScript & Node.js.
 
-I love experimenting with new technologies and working on impactful projects.
+Always eager to learn, I love diving into new technologies and refining my problem-solving skills.
 
-Here's my portfolio site to check out: [Portfolio 🖥️](https://kiermozer.vercel.app/)
-
-## Tools I use:
+## Technologies I use:
 
 <div style="display: flex; gap: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 height=40 title='JavaScript' />

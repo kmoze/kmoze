@@ -1,8 +1,8 @@
 # Hi, I'm Kier 👋🏻
 
-I'm a Software Engineer with a focus on JavaScript particularly in React, TypeScript & Node.js.
+I'm a Software Engineer with a focus on JavaScript particularly in React, TypeScript & Node.js. With years of startup experience under my belt including founding my own startup, I'm always excited to discuss opportunities to make a difference in the world through technology.
 
-Always eager to learn, I love diving into new technologies and refining my problem-solving skills.
+Thanks for stopping by! Email me if you have any questions about my work or if you'd like to collaborate.
 
 ## Technologies I use:
 

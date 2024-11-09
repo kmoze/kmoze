@@ -45,7 +45,7 @@ MigrainePal is a tracking tool that enables users to log their migraine attacks,
 
 Here's a demo of MigrainePal: [YouTube link](https://youtu.be/kwPL03Xq2R0)
 
-## Past projects
+## Past work:
 
 ### [Atomize Pro](https://github.com/kmoze/refactored-atomize)
 

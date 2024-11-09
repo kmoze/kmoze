@@ -1,6 +1,6 @@
 # Hi, I'm Kier 👋🏻
 
-I'm a Full-Stack Software Developer with a focus on JavaScript particularly in React, Next.js, TypeScript & Node.js.
+I'm a Software Engineer with a focus on JavaScript particularly in React, TypeScript & Node.js.
 
 Always eager to learn, I love diving into new technologies and refining my problem-solving skills.
 
@@ -26,7 +26,7 @@ Always eager to learn, I love diving into new technologies and refining my probl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 height=40 title='Figma' />
 </div>
 
-## Projects I'm Currently Working On:
+## Products I'm Currently Working On:
 
 ### [Goss](https://github.com/kmoze/goss)
 

@@ -40,6 +40,8 @@ Currently collaborating with therapists to leverage AI in their daily workflows 
 
 A voice-note focused social media app built in Next.js, using mobile-first design principles. Backend built using Supabase.
 
+## Past work:
+
 ### [MigrainePal](https://migraine-pal.vercel.app/login)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,8 +49,6 @@ A voice-note focused social media app built in Next.js, using mobile-first desig
 MigrainePal is a tracking tool that enables users to log their migraine attacks, receive detailed analytics and insights about them all with the goal of providing the end user with a deeper understanding of their migraine condition.
 
 Here's a demo of MigrainePal to see it in action: [YouTube link](https://youtu.be/kwPL03Xq2R0)
-
-## Past work:
 
 ### [Atomize Pro](https://github.com/kmoze/refactored-atomize)
 

@@ -11,7 +11,6 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=40 height=40 title='Next.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40 height=40 title='TypeScript' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width=40 height=40 title='React' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width=40 height=40 title='Angular' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width=40 height=40 title='Node.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40 height=40 title='Express.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40 title='Tailwind' />
@@ -22,11 +21,16 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40 height=40 title='Git' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40 height=40 title='PostgreSQL' />
 <img src='./images/shadcn.png' width=40 height=40 title='Shadcn/ui' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width=40 height=40 title='jQuery' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 height=40 title='Figma' />
 </div>
 
 ## Products I'm Currently Working On:
+
+### Helping therapists through AI
+
+Currently collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship. Looking to hire AI engineers to collab with - inquire via the hiring section on site (will be live soon if it's not yet).
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Goss
 

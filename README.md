@@ -24,7 +24,7 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 height=40 title='Figma' />
 </div>
 
-## Products I'm Currently Working On:
+## Currently Working On:
 
 ### Helping therapists through AI
 

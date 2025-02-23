@@ -8,8 +8,8 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 
 <div style="display: flex; gap: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 height=40 title='JavaScript' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=40 height=40 title='Next.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40 height=40 title='TypeScript' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=40 height=40 title='Next.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width=40 height=40 title='React' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width=40 height=40 title='Node.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40 height=40 title='Express.js' />
@@ -28,7 +28,9 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 
 ### Helping therapists through AI
 
-Currently collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship. Looking to hire AI engineers to collab with - inquire via the hiring section on site (will be live soon if it's not yet).
+Currently collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship.
+
+[MindCove AI](https://findmindcove.com/)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 

@@ -4,7 +4,7 @@ I'm a Software Engineer with a focus on JavaScript particularly in React, TypeSc
 
 Thanks for stopping by! Email me if you have any questions about my work or if you'd like to collaborate.
 
-## Technologies I use:
+## Technologies I often use:
 
 <div style="display: flex; gap: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 height=40 title='JavaScript' />
@@ -14,12 +14,12 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width=40 height=40 title='Node.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40 height=40 title='Express.js' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40 title='Tailwind' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40 height=40 title='PostgreSQL' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=40 height=40 title='MongoDB' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width=40 height=40 title='Supabase' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 height=40 title='Python' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width=40 height=40 title='Vitest'  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40 height=40 title='Git' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40 height=40 title='PostgreSQL' />
 <img src='./images/shadcn.png' width=40 height=40 title='Shadcn/ui' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 height=40 title='Figma' />
 </div>
@@ -28,9 +28,9 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 
 ### Helping therapists through AI
 
-Currently collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship.
+Collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship.
 
-[MindCove AI](https://findmindcove.com/)
+### [MindCove AI](https://findmindcove.com/)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 

@@ -26,9 +26,9 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 
 ## Currently Working On:
 
-### Helping therapists through AI
+### Helping coaches through AI
 
-Collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship.
+Collaborating with life coaches to leverage AI in their daily workflows to improve client outcomes and enhance the coach & client relationship.
 
 ### [MindCove AI](https://findmindcove.com/)
 

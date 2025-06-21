@@ -1,6 +1,6 @@
 # Hi, I'm Kier 👋🏻
 
-I'm a Software Engineer with a focus on JavaScript particularly in React, TypeScript & Node.js. With years of startup experience under my belt including founding my own startup, I'm always excited to discuss opportunities to make a difference in the world through technology.
+I'm a Frontend Software Engineer with a focus on JavaScript particularly in React, TypeScript & Next.js. With years of startup experience under my belt including founding my own startup, I'm always excited to discuss opportunities to make a difference in the world through technology.
 
 Thanks for stopping by! Email me if you have any questions about my work or if you'd like to collaborate.
 
@@ -28,7 +28,7 @@ Thanks for stopping by! Email me if you have any questions about my work or if y
 
 ### Helping therapists through AI
 
-Collaborating with therapists to leverage AI in their daily workflows to improve client outcomes and enhance the therapeutic relationship.
+Collaborating with therapists & life coaches to leverage AI in their daily workflows to improve client outcomes and enhance the professional relationship.
 
 ### [MindCove AI](https://findmindcove.com/)
 
